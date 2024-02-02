@@ -1,0 +1,55 @@
+
+
+.nav{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 120px;
+
+}
+
+.middle{
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.left{
+  display: flex;
+  flex-direction: row;
+  margin-right: 150px;
+}
+
+.p-middle{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.right{
+  margin-left: 150px;
+}
+
+.sign-button{
+  background-color:  rgba(135, 43, 255, 1);
+  border-radius: 30px;
+  width: 120px;
+  height: 50px;
+  padding-left: 14px;
+  padding-right: 14px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: white;
+  margin-left: 30px;
+  border: none;
+
+}
+
+.logo{
+  width: 110px;
+  padding-top: 8px;
+}
